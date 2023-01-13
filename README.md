@@ -1,4 +1,4 @@
-# How to transcribe any youtube video to summarized text
+# How to transcribe any youtube video and summarize the resulted text:
 
 1. Open https://github.com/mirceaachirili/youtube-summarize/blob/main/summarize.ipynb
 2. Click 'Open in Colab' button.
